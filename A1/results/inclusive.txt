@@ -1,0 +1,44 @@
+Application to analyse traces
+Choosing Inclusive Policy
+
+Analysing trace for bzip2
+Printing Statistics
+Layer 2 Hits and Misses:
+5259461(49%)	5398166(51%)
+Layer 3 Hits and Misses:
+3951778(73%)	1446388(27%)
+
+Analysing trace for gcc
+Printing Statistics
+Layer 2 Hits and Misses:
+11574350(79%)	3036461(21%)
+Layer 3 Hits and Misses:
+1663059(54%)	1373402(46%)
+
+Analysing trace for gromacs
+Printing Statistics
+Layer 2 Hits and Misses:
+3094660(90%)	336851(10%)
+Layer 3 Hits and Misses:
+166320(49%)	170531(51%)
+
+Analysing trace for h264ref
+Printing Statistics
+Layer 2 Hits and Misses:
+1378895(58%)	969678(42%)
+Layer 3 Hits and Misses:
+627532(64%)	342146(36%)
+
+Analysing trace for hmmer
+Printing Statistics
+Layer 2 Hits and Misses:
+1766344(50%)	1743421(50%)
+Layer 3 Hits and Misses:
+1352195(77%)	391226(23%)
+
+Analysing trace for sphinx3
+Printing Statistics
+Layer 2 Hits and Misses:
+1933098(17%)	8820349(83%)
+Layer 3 Hits and Misses:
+612987(6%)	8207362(94%)

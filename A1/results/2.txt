@@ -1,0 +1,116 @@
+Application to analyse traces
+Problem 2 : Inclusive Policy. Will show results for problem 1 and 2
+
+Analysing trace for bzip2
+Printing Statistics
+Layer 2 Hits and Misses:
+5259461(49%)	5398166(51%)
+Layer 3 Hits and Misses:
+3951778(73%)	1446388(27%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 1361401
+Cold Misses: 119753
+Capacity Misses: 1241648
+Conflict Misses: 84987
+
+Full Associative Cache Misses (With Belady): 536836
+Misses with Belady:
+Cold Misses: 119753
+Capacity Misses: 417083
+Conflict Misses: 909552
+
+Analysing trace for gcc
+Printing Statistics
+Layer 2 Hits and Misses:
+11574350(79%)	3036461(21%)
+Layer 3 Hits and Misses:
+1663059(54%)	1373402(46%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 1369924
+Cold Misses: 773053
+Capacity Misses: 596871
+Conflict Misses: 3478
+
+Full Associative Cache Misses (With Belady): 939289
+Misses with Belady:
+Cold Misses: 773053
+Capacity Misses: 166236
+Conflict Misses: 434113
+
+Analysing trace for gromacs
+Printing Statistics
+Layer 2 Hits and Misses:
+3094660(90%)	336851(10%)
+Layer 3 Hits and Misses:
+166320(49%)	170531(51%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 169368
+Cold Misses: 107962
+Capacity Misses: 61406
+Conflict Misses: 1163
+
+Full Associative Cache Misses (With Belady): 143254
+Misses with Belady:
+Cold Misses: 107962
+Capacity Misses: 35292
+Conflict Misses: 27277
+
+Analysing trace for h264ref
+Printing Statistics
+Layer 2 Hits and Misses:
+1378895(58%)	969678(42%)
+Layer 3 Hits and Misses:
+627532(64%)	342146(36%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 335880
+Cold Misses: 63703
+Capacity Misses: 272177
+Conflict Misses: 6266
+
+Full Associative Cache Misses (With Belady): 111605
+Misses with Belady:
+Cold Misses: 63703
+Capacity Misses: 47902
+Conflict Misses: 230541
+
+Analysing trace for hmmer
+Printing Statistics
+Layer 2 Hits and Misses:
+1766344(50%)	1743421(50%)
+Layer 3 Hits and Misses:
+1352195(77%)	391226(23%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 377024
+Cold Misses: 75884
+Capacity Misses: 301140
+Conflict Misses: 14202
+
+Full Associative Cache Misses (With Belady): 153447
+Misses with Belady:
+Cold Misses: 75884
+Capacity Misses: 77563
+Conflict Misses: 237779
+
+Analysing trace for sphinx3
+Printing Statistics
+Layer 2 Hits and Misses:
+1933098(17%)	8820349(83%)
+Layer 3 Hits and Misses:
+612987(6%)	8207362(94%)
+Printing Statistics for Problem 2
+Layer 3 misses:
+Full Associative Cache Misses: 8387248
+Cold Misses: 122069
+Capacity Misses: 8265179
+Conflict Misses: -179886
+
+Full Associative Cache Misses (With Belady): 3068580
+Misses with Belady:
+Cold Misses: 122069
+Capacity Misses: 2946511
+Conflict Misses: 5138782

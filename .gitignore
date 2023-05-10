@@ -1,0 +1,11 @@
+*.zip
+A1/traces/**
+analyse
+a.out
+A1/.vscode/**
+.vscode/**
+A1/2_upd.txt
+prog1
+prog2
+prog3
+prog4
